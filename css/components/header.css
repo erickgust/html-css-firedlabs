@@ -1,0 +1,11 @@
+.header {
+    height: 5.625rem;
+    display: flex;
+    background: #261719;
+    border-bottom: 10px solid #000;
+    padding: 0.625rem 1.25rem;
+}
+
+.header .navigation {
+    margin-left: auto;
+}

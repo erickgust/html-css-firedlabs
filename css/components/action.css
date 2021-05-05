@@ -1,0 +1,16 @@
+.action {
+    display: inline-flex;
+    align-items: center;
+    color: #FFF;
+    font: 500 1.25rem 'Fira Code', sans-serif;
+    text-decoration: none;
+    margin-right: 1.875rem;
+}
+
+.action::before {
+    content: "";
+    background-color: #FFA21F;
+    width: 10px;
+    height: 10px;
+    margin-right: 10px;
+}
