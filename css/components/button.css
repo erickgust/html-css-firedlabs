@@ -1,0 +1,20 @@
+.button {
+    display: inline-block;
+    font: 500 1.25rem 'Fira Code', sans-serif;
+    text-decoration: none;
+    background-color: #FFA21F;
+    padding: 1rem 1.25rem;
+    color: #FFF;
+    box-shadow: 5px 5px 0px #000;
+    text-shadow: 1px 1px 0 #00000034;
+    transition: transform 250ms cubic-bezier(0.22, 0.61, 0.36, 1), background-color 100ms ease-in-out;
+}
+
+.button:hover {
+    transform: scale(1.05) translateY(-3px);
+}
+
+.button:active {
+    color: #FFF;
+    background-color: #E08300;
+}
