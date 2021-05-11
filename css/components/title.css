@@ -1,6 +1,14 @@
 .title {
     font: 2.5rem "Press Start 2P", sans-serif;
+}
+
+.banner .title {
     color: #FFA21F;
     text-shadow: 0.25rem 0.25rem 0px #000;
     margin-bottom: 1.75rem;
+}
+
+.section .title {
+    color: #FFF;
+    text-align: center;
 }
