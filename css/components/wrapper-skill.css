@@ -1,0 +1,19 @@
+.wrapper-skill {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 60rem;
+    margin: 0 auto 3.125rem;
+}
+
+.wrapper-skill .skill-tech {
+    width: 26.875rem;
+    margin-bottom: 2.5rem;
+}
+
+.wrapper-skill .skill-tech:nth-child(odd) {
+    margin-right: 6.25rem;
+}
+
+.wrapper-skill .progress-bar {
+    width: 18.75rem;
+}

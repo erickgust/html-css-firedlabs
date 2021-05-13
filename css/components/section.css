@@ -1,5 +1,9 @@
 .section {
     background-color: #FFA21F;
-    border-bottom: 10px solid #261719;
+    border-bottom: 10px solid #7F3FDE;
     padding: 3.125rem;
+}
+
+.section .main-title {
+    margin-bottom: 3.75rem;
 }
