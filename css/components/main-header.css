@@ -1,4 +1,4 @@
-.header {
+.main-header {
     height: 5.625rem;
     display: flex;
     background: #261719;
@@ -6,6 +6,6 @@
     padding: 0.625rem 1.25rem;
 }
 
-.header .navigation {
+.main-header .navigation {
     margin-left: auto;
 }
