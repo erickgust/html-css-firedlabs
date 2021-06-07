@@ -12,3 +12,9 @@
     background-color: #000;
     border-color: #FFA21F;
 }
+
+.main-section.-bgSecond {
+    background-color: #261719;
+    border-color: #000;
+    padding: 3.125rem 0;
+}
