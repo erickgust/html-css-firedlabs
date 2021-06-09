@@ -1,0 +1,11 @@
+.main-footer {
+    background-color: #000;
+    padding: 1.75rem;
+}
+
+.main-footer .social-media {
+    margin: 0 auto;
+    width: 215px;
+    display: flex;
+    justify-content: space-between;
+}
