@@ -17,7 +17,7 @@
 
 .node-card .title {
     font: 1.625rem "Press Start 2P", sans-serif;
-    color: #FFA21F;
+    color: #F58F00;
     margin-bottom: 50px;
 }
 
@@ -35,5 +35,5 @@
 }
 
 .node-card.-first .logo-card {
-    background-color: #FFA21F;
+    background-color: #F58F00;
 }

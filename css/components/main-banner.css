@@ -1,5 +1,4 @@
 .main-banner {
-    box-sizing: border-box;
     background-image: url(../../assets/img/background.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
@@ -10,8 +9,7 @@
 }
 
 .main-banner .wrapper {
-    display: flex;
-    flex-direction: column;
+    
     width: 41.25rem;
 }
 

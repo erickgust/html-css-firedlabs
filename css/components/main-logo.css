@@ -1,0 +1,17 @@
+.main-logo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 60px;
+    width: 60px;
+    background-color: #F58F00;
+    box-shadow: 5px 5px 0px #000;
+}
+
+.main-logo .logo {
+    font-family: "Press Start 2P", sans-serif;
+    font-size: 2.375rem;
+    color: #FFF;
+    text-shadow: 5px 5px 0 #000;
+    text-align: center;
+}

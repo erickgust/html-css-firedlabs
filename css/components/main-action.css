@@ -9,7 +9,7 @@
 
 .main-action::before {
     content: "";
-    background-color: #FFA21F;
+    background-color: #F58F00;
     width: 0.625rem;
     height: 0.625rem;
     margin-right: 0.625rem;
