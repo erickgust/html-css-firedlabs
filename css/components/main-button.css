@@ -18,3 +18,7 @@
     color: #FFF;
     background-color: #E08300;
 }
+
+.main-button.-full {
+    width: 100%;
+}
