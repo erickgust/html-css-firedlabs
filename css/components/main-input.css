@@ -1,8 +1,13 @@
 .main-input {
     border: 5px solid #000;
-    font-size: 1.875rem;
+    font: 500 1.875rem "Fira Code", sans-serif;
     height: 50px;
     width: 100%;
     padding-left: 5px;
     padding-right: 5px;
+}
+
+.main-input.-textarea {
+    resize: none;
+    height: 320px;
 }
